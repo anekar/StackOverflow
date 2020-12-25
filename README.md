@@ -6,3 +6,4 @@
 ## Set-up
 ## Data Collection
 ## Data Cleaning
+## Exploratory Data Analysis

@@ -6,6 +6,7 @@
 ## Libraries
 ## Process 
 ## Set-up
+## Languages
 ## Data Collection
 ## Data Cleaning
 ## Exploratory Data Analysis

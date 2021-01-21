@@ -3,7 +3,7 @@
 [Stack Overflow](https://www.kaggle.com/stackoverflow/stackoverflow)
 
 ## Visuals
-The Visualizations will be peovided by Tableau
+The Visualizations will be peovided by Tableau and Microsoft Excel 
 ## Libraries
 ## Process 
 ## Set-up

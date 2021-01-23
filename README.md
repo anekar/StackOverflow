@@ -14,5 +14,8 @@ The Visualizations will be peovided by Tableau and Microsoft Excel
 ## Languages
 The following project will be developed with **R language**
 ## Data Collection
+>In this fist stage of the project key goal is to gather all the neseccary information that will help us to solve
+the main problem.
 ## Data Cleaning
 ## Exploratory Data Analysis
+>Getting familiar with the data such as finding patterns and discovering key insights

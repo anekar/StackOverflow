@@ -7,6 +7,7 @@ The Visualizations will be peovided by Tableau and Microsoft Excel
 ## Libraries
 The Libraries that used for this project are 
 ## Process 
+The starting process will begin with
 ## Set-up
 * Fire up RStudio Environment
 * Set the working directory

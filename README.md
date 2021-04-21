@@ -9,7 +9,7 @@ The Libraries that used for this project are
 Tidyverse
 ggplot
 ## Process 
-The starting process will begin with
+The starting process will begin with collecting the right data
 ## Set-up
 * Fire up RStudio Environment
 * Set the working directory

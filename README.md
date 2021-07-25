@@ -22,5 +22,6 @@ The following project will be developed with **R language**
 >In this fist stage of the project key goal is to gather all the neseccary information that will help us to solve
 the main problem.
 ## Data Cleaning
+In this process
 ## Exploratory Data Analysis
 >Getting familiar with the data such as finding patterns and discovering key insights
